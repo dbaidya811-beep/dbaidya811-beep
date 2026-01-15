@@ -1,15 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Deep Baidya  
+###  Web Developer |  Cyber Security Enthusiast
 
+I build **secure, scalable, and high-performance applications** with a strong focus on **security-first development**.
 
-**dbaidya811-beep/dbaidya811-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Quick Glance
+- 💻 Currently working on: **Secure Full-stack Web Applications**
+- 🌱 Currently learning: **Advanced Cyber Security & Cloud Security**
+- 👯 Looking to collaborate on: **Open-source, Web & Security Projects**
+- 💬 Ask me about: **Web Dev, Cyber Security, OWASP Top 10**
+- 📧 Reach me at: **dbaidya811@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## Skills, Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,react,nodejs,express,nextjs,mongodb,mysql,git,github,gitlab,docker,aws,gcp,netlify,vercel,linux,kali,bash&theme=light)](https://skillicons.dev)
+
+**Cyber Security Tools & Concepts:**  
+- Burp Suite  
+- Nmap  
+- Metasploit  
+- Wireshark  
+- OWASP Top 10  
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dbaidya811/)
+[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://www.deepbaidya.vercel.app/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:dbaidya811@gmail.com)
+
+---
+
+✨ *Secure Code • Strong Systems • Continuous Learning* 🛡️
