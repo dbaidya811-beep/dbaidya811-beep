@@ -24,3 +24,51 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+/* Koro background animation styles */
+.koro-container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 150px;
+  overflow: hidden;
+}
+
+.wave {
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 88.7'%3E%3Cpath d='M800 56.9c-155.5 0-204.9-50-405.5-49.9-200 0-250 49.9-394.5 49.9v31.8h800v-.2-31.6z' fill='rgba(30, 41, 59, 0.5)'/%3E%3C/svg%3E");
+  position: absolute;
+  width: 200%;
+  height: 100%;
+  background-repeat: repeat-x;
+  background-size: 50% 100px;
+  bottom: 0;
+  animation-name: koro-move;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.wave:nth-of-type(1) {
+  animation-duration: 15s;
+  opacity: 0.8;
+}
+
+.wave:nth-of-type(2) {
+  animation-duration: 10s;
+  animation-direction: reverse;
+  opacity: 0.5;
+}
+
+.wave:nth-of-type(3) {
+  animation-duration: 20s;
+  animation-delay: -1s;
+  opacity: 0.3;
+}
+
+@keyframes koro-move {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
