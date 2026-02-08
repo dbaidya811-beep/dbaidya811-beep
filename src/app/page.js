@@ -411,8 +411,10 @@ export default function Home() {
   useEffect(() => {
     const hasRefreshed = sessionStorage.getItem('hasRefreshed');
     if (!hasRefreshed) {
-      sessionStorage.setItem('hasRefreshed', 'true');
-      window.location.reload();
+      setTimeout(() => {
+        sessionStorage.setItem('hasRefreshed', 'true');
+        window.location.reload();
+      }, 1000);
     }
   }, []);
 
