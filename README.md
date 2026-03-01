@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Deep Baidya  
-###  Web Developer |  Cyber Security Enthusiast
+###  Full-stack Developer |  Cyber Security Enthusiast
 
 I build **secure, scalable, and high-performance applications** with a strong focus on **security-first development**.
 
@@ -9,7 +9,7 @@ I build **secure, scalable, and high-performance applications** with a strong fo
 - 💻 Currently working on: **Secure Full-stack Web Applications**
 - 🌱 Currently learning: **Advanced Cyber Security & Cloud Security**
 - 👯 Looking to collaborate on: **Open-source, Web & Security Projects**
-- 💬 Ask me about: **Web Dev, Cyber Security, OWASP Top 10**
+- 💬 Ask me about: **Full-stack Dev, Cyber Security, OWASP Top 10**
 - 📧 Reach me at: **dbaidya811@gmail.com**
 
 ---
