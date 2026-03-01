@@ -59,7 +59,7 @@ export async function POST(request) {
 
             <p style="margin-bottom: 5px;">Best regards,</p>
             <p style="margin-top: 0; font-weight: bold;">Deep Baidya</p>
-            <p style="margin-top: 0; font-size: 14px; color: #666;">Web Developer & Cyber Security Enthusiast</p>
+            <p style="margin-top: 0; font-size: 14px; color: #666;">Full-stack Developer & Cyber Security Enthusiast</p>
             
             <div style="margin-top: 30px; text-align: center;">
                <a href="https://deepbaidya.vercel.app" style="display: inline-block; background-color: #007bff; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">Return to Portfolio</a>

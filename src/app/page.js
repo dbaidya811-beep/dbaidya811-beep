@@ -547,7 +547,7 @@ export default function Home() {
             </div>
             <h1 className="text-4xl md:text-7xl lg:text-8xl font-extrabold tracking-tight mb-8 leading-tight">
               <Typewriter 
-                text="W eb Developer" 
+                text="F ull-stack Developer"
                 speed={70}
                 className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500"
                 onComplete={() => setHeroStep(2)}
@@ -571,7 +571,7 @@ export default function Home() {
               <span className="animate-pulse text-indigo-400 ml-1">|</span>
             </h1>
             <p className="text-lg md:text-xl text-slate-400 max-w-2xl mx-auto mb-12 leading-relaxed">
-              I'm <span className="text-slate-100 font-semibold">Deep Baidya</span>. A Web Developer & Cybersecurity Enthusiast crafting secure, beautiful, and performant websites.
+              I'm <span className="text-slate-100 font-semibold">Deep Baidya</span>. A Full-stack Developer & Cybersecurity Enthusiast crafting secure, beautiful, and performant websites.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a href="/resume.pdf" download className="px-8 py-4 bg-white text-slate-950 font-bold rounded-full hover:bg-indigo-50 transition-all hover:scale-105 active:scale-95 shadow-lg shadow-indigo-500/20">
